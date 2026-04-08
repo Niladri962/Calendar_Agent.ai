@@ -75,7 +75,17 @@ cd Calendar_Agent.ai
 pip install -r requirements.txt
 
 
+pip install -r requirements.txt
+🔑 Environment Setup
 
+Create a .env file:
+
+OPENAI_API_KEY=your_api_key
+
+(or use Gemini API if configured)
+
+▶️ Run the App
+python main.py
 
 
 
