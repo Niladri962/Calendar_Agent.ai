@@ -81,16 +81,7 @@ pip install -r requirements.txt
 Create a .env file:
 
 OPENAI_API_KEY=your_api_key
-
 (or use Gemini API if configured)
 
 ▶️ Run the App
 python main.py
-
-
-
-
-
-
-
-
