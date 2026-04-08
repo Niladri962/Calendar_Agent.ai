@@ -43,10 +43,6 @@ It allows users to interact with their calendar like a chatbot instead of using 
 <img width="1131" height="796" alt="Screenshot 2026-04-08 124145" src="https://github.com/user-attachments/assets/fc630f7d-9d50-4bbf-8b4a-5fa0617f889d" />
 
 
-### 🔹 Event Viewer
-![Events](assets/events.png)
-
-> 📌 Add your screenshots inside an `assets/` folder
 
 ---
 
@@ -61,3 +57,30 @@ It allows users to interact with their calendar like a chatbot instead of using 
 ---
 
 ## 📂 Project Structure
+Calendar_Agent.ai/
+│── agent.py # AI logic
+│── db.py # Database operations
+│── main.py # UI entry point
+│── requirements.txt # Dependencies
+│── images/ # Screenshots
+
+
+---
+
+## ⚙️ Installation
+
+```bash
+git clone https://github.com/Niladri962/Calendar_Agent.ai
+cd Calendar_Agent.ai
+pip install -r requirements.txt
+
+
+
+
+
+
+
+
+
+
+
