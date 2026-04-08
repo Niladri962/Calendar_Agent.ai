@@ -57,14 +57,15 @@ It allows users to interact with their calendar like a chatbot instead of using 
 ---
 
 ## 📂 Project Structure
-Calendar_Agent.ai/
-│── agent.py # AI logic
-│── db.py # Database operations
-│── main.py # UI entry point
-│── requirements.txt # Dependencies
-│── images/ # Screenshots
 
-
+```
+Calendar_Agent.ai
+├── agent.py          # AI logic
+├── db.py             # Database operations
+├── main.py           # UI entry point
+├── requirements.txt  # Dependencies
+└── images/           # Screenshots
+```
 ---
 
 ## ⚙️ Installation
